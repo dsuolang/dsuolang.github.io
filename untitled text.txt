@@ -1,0 +1,24 @@
+I appreciate new Table 1 that shows how variables of interest are constructed this study. However, R1.2 requested authors to provide more detail about what was measured in the previous research, given it claims provides new empirical evidence on differences between survey and metered data focusing on ChatGPT use and engagement over time, the response appears to be not relevant.
+
+R1.3 It is good to see this is now listed as part of the limitations I don’t see the sentence author mentioned in R1.3 #3 actually appeared in the manuscript, there is no step in manuscript that does any weighting to approximate population, I only see metered sample so that its marginal distributions match those of
+the survey sample page 8 line 41.
+
+
+ R1.4: is addressed
+
+I realized there are lots of inconsistency between what authors wrote in the responses, vs what is actually in the manuscript
+
+
+R1.5’ response is good, but what they said they add do not exist in the manuscript
+
+Same for R1.6 partially missing
+What they said they added in R1.8 is not actually in the manuscript
+
+R1.7 is addressed
+
+No mentioning of SOM7
+
+R1.9
+
+R1.10
+
